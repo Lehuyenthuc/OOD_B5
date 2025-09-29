@@ -1,0 +1,10 @@
+C:\Users\Mi\Documents\ĐH_CNTT3\OOD\Lab_ThucHanh\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\Mi\Documents\ĐH_CNTT3\OOD\Lab_ThucHanh\Bai1\bin\Debug\Bai1.exe
+C:\Users\Mi\Documents\ĐH_CNTT3\OOD\Lab_ThucHanh\Bai1\bin\Debug\Bai1.pdb
+C:\Users\Mi\Documents\ĐH_CNTT3\OOD\Lab_ThucHanh\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\Mi\Documents\ĐH_CNTT3\OOD\Lab_ThucHanh\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Mi\Documents\ĐH_CNTT3\OOD\Lab_ThucHanh\Bai1\obj\Debug\Bai1.exe
+C:\Users\Mi\Documents\ĐH_CNTT3\OOD\Lab_ThucHanh\Bai1\obj\Debug\Bai1.pdb
+C:\Users\Mi\Documents\ĐH_CNTT3\OOD\Lab_ThucHanh\LeHuyenThuc_1150080119_Lab1\bin\Debug\Bai1.exe.config
+C:\Users\Mi\Documents\ĐH_CNTT3\OOD\Lab_ThucHanh\LeHuyenThuc_1150080119_Lab1\obj\Debug\Bai1.exe
+C:\Users\Mi\Documents\ĐH_CNTT3\OOD\Lab_ThucHanh\LeHuyenThuc_1150080119_Lab1\obj\Debug\Bai1.pdb
